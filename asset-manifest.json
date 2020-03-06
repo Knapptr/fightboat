@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fightboat/static/css/main.d1b05096.chunk.css",
+    "main.js": "/fightboat/static/js/main.8500ba89.chunk.js",
+    "main.js.map": "/fightboat/static/js/main.8500ba89.chunk.js.map",
+    "runtime-main.js": "/fightboat/static/js/runtime-main.1b9156cf.js",
+    "runtime-main.js.map": "/fightboat/static/js/runtime-main.1b9156cf.js.map",
+    "static/js/2.840f5129.chunk.js": "/fightboat/static/js/2.840f5129.chunk.js",
+    "static/js/2.840f5129.chunk.js.map": "/fightboat/static/js/2.840f5129.chunk.js.map",
+    "index.html": "/fightboat/index.html",
+    "precache-manifest.0150a41df0b88210b8fa60db15a4e847.js": "/fightboat/precache-manifest.0150a41df0b88210b8fa60db15a4e847.js",
+    "service-worker.js": "/fightboat/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/fightboat/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.840f5129.chunk.js.LICENSE.txt": "/fightboat/static/js/2.840f5129.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fightboat/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b9156cf.js",
+    "static/js/2.840f5129.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8500ba89.chunk.js"
+  ]
+}
